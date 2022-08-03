@@ -1,0 +1,20 @@
+
+.container {
+    display: flex;
+    height: 682px;
+    width: 1024px;
+    margin: auto;
+    background-image: url("../png/image1.jpg");
+    background-repeat: repeat-y;
+    background-size: contain;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 10px 10px -1px rgba(0,0,0,0.34);
+    -moz-box-shadow: 1px 10px 10px -1px rgba(0,0,0,0.34);
+    box-shadow: 1px 10px 10px -1px rgba(0,0,0,0.34);
+  
+  }
